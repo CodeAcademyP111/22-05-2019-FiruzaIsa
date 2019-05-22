@@ -1,0 +1,30 @@
+
+
+
+
+
+
+
+
+ 
+
+.content{
+    width: 500px;
+    height: 500px;
+    background-color: gray;
+    position: relative;
+    top: 0;
+    left: 0;
+    
+}
+
+
+
+#square{
+    width: 60px;
+    height:60px;
+    background-color: black;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
